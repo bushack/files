@@ -3,70 +3,75 @@
     "Name": "1970s Teak Cabinet",
     "Manufacturer": "Abbess",
     "Description": "Teak sliding doors with inset aluminium circular pulls, robust metal legs and adjustable internal shelf. Versatile and charming.",
-    "Image": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/cabinet%20abbess.jpg",
-    "Price": "£1234.56"
+    "Price": "£1234.56",
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/cabinet_abbess_1_.jpg",
+    "Image2": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/cabinet_abbess_2_.jpg",
+    "Image3": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/cabinet_abbess_3_.jpg",
+    "Image4": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/cabinet_abbess_4_.jpg",
+    "Image5": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/cabinet_abbess_5_.jpg",
+    "Image6": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/cabinet_abbess_6_.jpg"
   },
   {
     "Name": "Mid-Century Tallboy",
     "Manufacturer": "Wrighton Furniture",
     "Description": "Elegant styling, circular pulls, sculptural leg detailing and beautiful timbers make this an especially unusual & desirable piece.",
-    "Image": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20tallboy%20wrighton.jpg",
-    "Price": "£1234.56"
+    "Price": "£1234.56",
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20tallboy%20wrighton.jpg"
   },
   {
     "Name": "1960s Tallboy",
     "Manufacturer": "Austinsuite",
     "Description": "Designed by Frank Guille for top end British maker Austinsuite. Elegant lines, sculpted full length pulls, tapered legs and differing drawer sizes combine with high quality timbers and beautiful craftmanship making this one of the most desirable British mid century tallboys you can find.",
-    "Image": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20austinsuite.jpg",
-    "Price": "£1234.56"
+    "Price": "£1234.56",
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20austinsuite.jpg"
   },
   {
     "Name": "Mid-Century Lamp",
     "Manufacturer": "",
     "Description": "Feast your eyes on this magnificent, sculptural 1960s solid teak & brass floor lamp which we’ve paired with this eyegasmic, vibrant handmade Swedish dog fabric drum shade.",
-    "Image": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20lamp%20a.jpg",
-    "Price": "£1234.56"
+    "Price": "£1234.56",
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20lamp%20a.jpg"
   },
   {
     "Name": "Mid-Century Sideboard",
     "Manufacturer": "",
     "Description": "Cast your gaze over this truly outstanding Scandinavian teak sideboard. Sliding doors, circular pulls, tapered legs and an incredible teak grain make this one of our favourites in a good while. Hugely desirable and stylish.",
-    "Image": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20sideboard%20a.jpg",
-    "Price": "£1234.56"
+    "Price": "£1234.56",
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20sideboard%20a.jpg"
   },
   {
     "Name": "Mid-Century Lamp",
     "Manufacturer": "",
     "Description": "Feast your eyes on this magnificent, sculptural 1960s solid teak floor lamp which we’ve paired with this eyegasmic, vibrant handmade Swedish cat fabric drum shade.",
-    "Image": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20lamp%20b.jpg",
-    "Price": "£1234.56"
+    "Price": "£1234.56",
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20lamp%20b.jpg"
   },
   {
     "Name": "Mid-Century Tallboy",
     "Manufacturer": "Homeworthy Furniture",
     "Description": "Quality craftmanship, curvaceous pulls, overhanging top and afromosia detailing; classic mid century styling & super desirable.",
-    "Image": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20homeworthy.jpg",
-    "Price": "£1234.56"
+    "Price": "£1234.56",
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20homeworthy.jpg"
   },
   {
     "Name": "Mid-Century Tallboy",
     "Manufacturer": "Avalon Furniture",
     "Description": "Beautifully grained, rich honey coloured timbers, sculpted solid afromosia pulls and shapely flaring solid beech legs; a fabulous, classic design from Avalon.",
-    "Image": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20avalon.jpg",
-    "Price": "£1234.56"
+    "Price": "£1234.56",
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20avalon.jpg"
   },
   {
     "Name": "Mid-Century Sideboard",
     "Manufacturer": "",
     "Description": "Enter a description",
-    "Image": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20sideboard%20b.jpg",
-    "Price": "£1234.56"
+    "Price": "£1234.56",
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20sideboard%20b.jpg"
   },
   {
     "Name": "Mid-Century Table",
     "Manufacturer": "",
     "Description": "Enter a description",
-    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuP0X2tY9on2gHhGKTjTwfJQts2GsbCT8QxA&s",
-    "Price": "£1234.56"
+    "Price": "£1234.56",
+    "Image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuP0X2tY9on2gHhGKTjTwfJQts2GsbCT8QxA&s"
   }
 ]
