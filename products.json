@@ -23,55 +23,95 @@
     "Manufacturer": "Austinsuite",
     "Description": "Designed by Frank Guille for top end British maker Austinsuite. Elegant lines, sculpted full length pulls, tapered legs and differing drawer sizes combine with high quality timbers and beautiful craftmanship making this one of the most desirable British mid century tallboys you can find.",
     "Price": "£1234.56",
-    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20austinsuite.jpg"
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20austinsuite.jpg",
+    "Image2": "",
+    "Image3": "",
+    "Image4": "",
+    "Image5": "",
+    "Image6": ""
   },
   {
     "Name": "Mid-Century Lamp",
     "Manufacturer": "",
     "Description": "Feast your eyes on this magnificent, sculptural 1960s solid teak & brass floor lamp which we’ve paired with this eyegasmic, vibrant handmade Swedish dog fabric drum shade.",
     "Price": "£1234.56",
-    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20lamp%20a.jpg"
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20lamp%20a.jpg",
+    "Image2": "",
+    "Image3": "",
+    "Image4": "",
+    "Image5": "",
+    "Image6": ""
   },
   {
     "Name": "Mid-Century Sideboard",
     "Manufacturer": "",
     "Description": "Cast your gaze over this truly outstanding Scandinavian teak sideboard. Sliding doors, circular pulls, tapered legs and an incredible teak grain make this one of our favourites in a good while. Hugely desirable and stylish.",
     "Price": "£1234.56",
-    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20sideboard%20a.jpg"
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20sideboard%20a.jpg",
+    "Image2": "",
+    "Image3": "",
+    "Image4": "",
+    "Image5": "",
+    "Image6": ""
   },
   {
     "Name": "Mid-Century Lamp",
     "Manufacturer": "",
     "Description": "Feast your eyes on this magnificent, sculptural 1960s solid teak floor lamp which we’ve paired with this eyegasmic, vibrant handmade Swedish cat fabric drum shade.",
     "Price": "£1234.56",
-    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20lamp%20b.jpg"
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20lamp%20b.jpg",
+    "Image2": "",
+    "Image3": "",
+    "Image4": "",
+    "Image5": "",
+    "Image6": ""
   },
   {
     "Name": "Mid-Century Tallboy",
     "Manufacturer": "Homeworthy Furniture",
     "Description": "Quality craftmanship, curvaceous pulls, overhanging top and afromosia detailing; classic mid century styling & super desirable.",
     "Price": "£1234.56",
-    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20homeworthy.jpg"
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20homeworthy.jpg",
+    "Image2": "",
+    "Image3": "",
+    "Image4": "",
+    "Image5": "",
+    "Image6": ""
   },
   {
     "Name": "Mid-Century Tallboy",
     "Manufacturer": "Avalon Furniture",
     "Description": "Beautifully grained, rich honey coloured timbers, sculpted solid afromosia pulls and shapely flaring solid beech legs; a fabulous, classic design from Avalon.",
     "Price": "£1234.56",
-    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20avalon.jpg"
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/tallboy%20avalon.jpg",
+    "Image2": "",
+    "Image3": "",
+    "Image4": "",
+    "Image5": "",
+    "Image6": ""
   },
   {
     "Name": "Mid-Century Sideboard",
     "Manufacturer": "",
     "Description": "Enter a description",
     "Price": "£1234.56",
-    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20sideboard%20b.jpg"
+    "Image1": "https://raw.githubusercontent.com/bushack/images/refs/heads/main/mid%20century%20sideboard%20b.jpg",
+    "Image2": "",
+    "Image3": "",
+    "Image4": "",
+    "Image5": "",
+    "Image6": ""
   },
   {
     "Name": "Mid-Century Table",
     "Manufacturer": "",
     "Description": "Enter a description",
     "Price": "£1234.56",
-    "Image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuP0X2tY9on2gHhGKTjTwfJQts2GsbCT8QxA&s"
+    "Image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuP0X2tY9on2gHhGKTjTwfJQts2GsbCT8QxA&s",
+    "Image2": "",
+    "Image3": "",
+    "Image4": "",
+    "Image5": "",
+    "Image6": ""
   }
 ]
